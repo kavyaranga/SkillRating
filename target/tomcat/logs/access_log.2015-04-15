@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [15/Apr/2015:15:55:15 +0530] "GET /SkillRating/ HTTP/1.1" 500 52450 http-bio-8080-exec-1 1806
+0:0:0:0:0:0:0:1 - - [15/Apr/2015:15:55:15 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [15/Apr/2015:15:55:27 +0530] "GET /SkillRating/welcome HTTP/1.1" 500 52450 http-bio-8080-exec-3 117
+0:0:0:0:0:0:0:1 - - [15/Apr/2015:18:56:07 +0530] "GET /SkillRating/ HTTP/1.1" 500 52450 http-bio-8080-exec-1 878
